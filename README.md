@@ -39,14 +39,15 @@ The modal senses of Table 1 are defined according to Ruppenhofer and Rehbein (20
 
 The modal sense scheme was chosen because results from Ruppenhofer and Rehbein (2012) indicate that the sense categories are meaningful and can be learned by a classifier. In applying their scheme to a different domain (the vaccination debate), analyzing the outcomes of the present annotation task and comparing them to results of Ruppenhofer and Rehbein (2012) should help answer the following research questions: (i) whether there is comparable inter-annotator agreement between the two differing domains (English news and the vaccination debate), and (ii) whether there are unique cases of disagreement when comparing the present results with those of Ruppenhofer and Rehbein (2012). The following sections outline specific instructions for the annotators, and provide annotated examples. 
 
-Instructions for annotators
+**Instructions for annotators:**
+
 The DM50 corpus contains 50 articles relating to the vaccination debate. The modals *can, could, may, might, must, shall, should* and *ought (to)* are the markables, and their attributes are the permitted senses as presented in Table 1. An additional attribute has been created for cases of uncertainty ('ambiguous'), but it is not to be used too liberally (i.e. frequently and without restraint).
 
 All modals are to be annotated, with the exception of those appearing in headings and subheadings, and sections encouraging correspondence with the author (e.g. 'you can find me on Twitter'). Negation is beyond the scope of this task, and modals that appear in the negated form are to be annotated without the negative particles, as follows: 'I [**can**]'t come'; 'I [**should**]n't call at this time'; and 'She [**can**]not believe you said that'.
 
 The annotation software used for the present task is eHOST. See http://ehostdoc.com for software documentation.
 
-Annotated examples
+**Annotated examples:**
 
 Table 2 presents examples of correct annotation (where the target modal is in bold font), with a brief explanation of the sense.
 
