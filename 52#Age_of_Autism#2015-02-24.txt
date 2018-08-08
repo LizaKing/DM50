@@ -1,0 +1,78 @@
+Neil Miller: Why people choose not to Vaccinate
+WhyPrinted with permission from Neil Miller of ThinkTwice.com.
+
+By Neil Miller
+
+Recently I was contacted by an anchorwoman for a TV network asking if I would answer a few questions for a story that she was doing on vaccinations, particularly regarding measles. Here are my responses:
+
+Why would one choose not to vaccinate?
+
+Some parents choose not to vaccinate because they had a personal experience that convinced them vaccines are dangerous. Other people have read peer-reviewed studies showing vaccine safety deficits and decided that the risks are greater than the benefits. For example, numerous studies have confirmed a link between vaccinations and cancer. Children who are permitted to contract measles naturally are significantly protected against various cancers later in life. In fact, the wild measles virus has oncolytic (anti-cancer) properties. Tumor remissions after measles infection are well documented in the medical literature.
+
+Children who are required to be vaccinated against measles have had this anti-cancer protection stripped from them for life. They have been forced to trade a reduced risk of contracting measles for an increased risk of developing cancer later in childhood or as an adult.
+
+I will list just a few of the studies confirming the scientific link between vaccines and cancer:
+
+Albonico et al found that adults are significantly protected against non-breast cancers -- genital, prostate, gastrointestinal, skin, lung, ear-nose-throat, and others -- if they contracted measles (odds ratio, OR = 0.45), rubella (OR = 0.38) or chickenpox (OR = 0.62) earlier in life. [Med Hypotheses 1998; 51(4): 315-20].
+
+Montella et al found that contracting measles in childhood reduces the risk of developing lymphatic cancer in adulthood [Leuk Res 2006; 30(8): 917-22].
+
+Alexander et al found that infection with measles during childhood is significantly protective -- it cuts the risk in half -- against developing Hodgkin's disease (OR = 0.53) [Br J Cancer 2000; 82(5): 1117-21].
+
+Glaser et al also found that lymph cancer is significantly more likely in adults who were not infected with measles, mumps or rubella in childhood [In J Cancer 2005; 115(4): 599-605].
+
+Gilham et al found that infants with the least exposure to common infections have the greatest risk of developing childhood leukemia [BMJ 2005; 330: 1294].
+
+Urayama et al also found that early exposure to infections is protective against leukemia [Int J Cancer 2011; 128(7): 1632-43].
+
+In the world of science, it is quite well known that having infections in early life protects against various cancers in later life. Later born children have less cancer than first born children because they are exposed to more infections in early life from their siblings. Children that go to daycare in early life are more protected against cancers for the same reason. Vaccinations denied babies opportunities to become naturally infected, and with this reduction in exposure to disease there was a tradeoff -- increased rates of cancer.
+
+People may legitimately argue over whether the reduction in disease in exchange for an increase in cancer is a good thing or a bad thing but the tradeoff is a real thing that must be considered when weighing the honest risk-to-benefit ratio of vaccinations. Parents are entitled to know this information in order to retain true informed consent, remain free to accept or reject vaccinations and have their human rights preserved.
+
+What are the concerns?
+
+In the U.S. and Canada, doctors recommend 8 vaccines at 2, 4, and 6 months of age. These vaccines were tested individually but not in combination. No studies anywhere in the world were ever conducted to provide scientific evidence that infants are not subjected to synergistic toxicity from the simultaneous administration of 8 drugs. In fact, there is evidence to the contrary. As babies receive more vaccines concurrently, they are more likely to be hospitalized and die: http://www.ncbi.nlm.nih.gov/pubmed/22531966
+
+Many people have also lost trust in the organizations that are commissioned to oversee vaccine safety. For example, 15 years ago the CDC conducted a study that confirmed a link between thimerosal (mercury) in vaccines and autism. Infants that received vaccines with the highest quantities of thimerosal were nearly 8 times more likely to develop autism compared to infants that did not receive thimerosal-containing vaccines (RR = 7.6). Instead of publishing this study, the CDC quashed it. Here is the abstract: http://thinktwice.com/CDC_quashed_study.pdf
+
+Other studies provide additional evidence of scientific malfeasance with regard to some well-publicized studies purporting to show no link between vaccines and severe safety hazards. For example: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065774/
+
+Also, many non-vaccinators are aware that when they purchase vaccines, a portion of the money goes into a Congressional fund that compensates parents when their children are damaged or killed by vaccines. The United States government, through the National Vaccine Injury Compensation Program, has already paid out $3 billion to thousands of parents whose children were damaged or killed by vaccines: http://www.hrsa.gov/vaccinecompensation/index.html This information is a contributing factor in their personal calculations of risk-to-benefit tradeoffs.
+
+It is also instructive to note that in the U.S. there were 5,078 adverse reactions reported to the Vaccine Adverse Event Reporting System (VAERS) after MMR or MMRV vaccination during the years 2011 and 2012. This included 20 deaths. There were no deaths attributed to measles in the U.S. during the past 12 years.
+
+Regarding the measles (MMR) vaccine, the loss of anti-cancer protection is just one of the tradeoffs. For example, several studies have shown the risk of idiopathic thrombocytopenia purpura (ITP), a serious autoimmune bleeding disorder, to significantly increase in children that receive MMR. In one study, children were 6 times more likely to develop ITP within 6 weeks after MMR vaccination compared to children that were unvaccinated or not recently vaccinated with MMR (relative risk, RR = 6.3). [Black et al. Br J Clin Pharmacol 2003 Jan; 55(1): 107 11.] Several other studies confirm similar results.
+
+Other large studies show that children who receive MMR have a statistically significant elevated risk of being rushed to the hospital emergency room 1 to 2 weeks post-vaccination when compared to the period 20 to 28 days post-vaccination.
+
+What is the better method of protecting yourself and your children from certain diseases and viruses?
+
+Vaccine-induced immunity is temporary unlike immunity gained from contracting the actual disease. Also, a recent study confirmed that measles can be spread from fully vaccinated people to other fully vaccinated people [Clin Infect Dis 2014 May; 58(9): 1205-10]. Recent outbreaks of measles in Disneyland occurred in both fully vaccinated and unvaccinated people. In some measles outbreaks a majority of the cases occur in fully vaccinated people. Thus, vaccine-induced immunity is unreliable.
+
+In all outbreaks of measles going back to the 1980s, whether they were minor outbreaks (like 100 cases at Disneyland) or several thousand cases, between 10% and 99% of all cases were in fully vaccinated people -- they received the recommended 2 doses of MMR. Today, 90% to 95% of all children in the U.S. and Canada who are eligible for MMR have received the vaccine. Yet, authorities tell us that the key to stopping the spread of measles is by vaccinating the remaining fraction. So, by this reasoning it must really be the unvaccinated who are key to whether the vaccinated remain protected!
+
+One of the reasons the vaccine fails, as recent evidence seems to indicate, is because the wild virus may need to be in greater circulation to boost vaccine-induced immunity. Protective antibodies wane more quickly when they are not periodically re-challenged by the freely circulating virus. This happened with the varicella (chickenpox) vaccine. Studies show that a reduction in the circulation of the natural varicella virus due to high vaccination rates caused an epidemic of herpes zoster (shingles) that will last for 50 years. The elderly, especially, relied on these periodic exogenous boosts to their immune systems (when they went out in public) to keep shingles from occurring. The chickenpox vaccine reduced cases of chickenpox but the circulating cases actually provided a valuable function.
+
+Health authorities need to stop blaming unvaccinated people for causing outbreaks of disease when the design of the vaccine itself is the problem. Scientists should go back to their labs and make a vaccine that doesn't fail when vaccinated people come into contact with the disease. The vaccine can then be given to those who really want it and the small fraction of unvaccinated people can retain their human rights. We should also encourage scientists to make a vaccine specifically for people with compromised immune systems. There is a precedent for this idea.
+
+The chickenpox vaccine was originally designed by the manufacturer for people with leukemia and weak immune systems, so it should be possible for scientists to design a measles vaccine specifically for people with weak immunity. However, the chickenpox vaccine manufacturer sought a wider market for its product and pushed for use in the normal population. Market share is much higher when a vaccine is designed for every healthy child rather than a small subset of unhealthy children -- especially with a mandated market -- so what incentive do the health authorities and vaccine manufacturer have when it's easier to use coercion and shame the unvaccinated?
+
+It is also unethical to require unvaccinated people to risk their own health in an effort to protect people with damaged immune systems. Several studies show that vaccines have increased the risk for autoimmunity. So, vaccines caused some people to have compromised immune systems and now healthy unvaccinated people are told that they must take these very same vaccines to protect the people with vaccine-damaged immunity.
+
+Many non-vaccinators remember a time prior to the introduction of the measles vaccine when doctors actually recommended that children go next door to play with their measles-infected neighbors. Doctors knew that measles stimulated the immune system and was normally a benign disease when contracted in childhood. Infants rarely contracted measles because their mothers were naturally infected as children and passed on maternal antibodies to their babies in utero which protected them for the first 15 months of life. Today, most mothers were vaccinated with MMR and don't have maternal antibodies to pass on to their newborns so infants are susceptible to the disease which can be more severe than when contracted later in childhood. (Measles is a more dangerous disease in developing countries where pregnant women and their babies are malnourished and deficient in vitamin A.)
+
+In the United States, an outbreak of 100 cases of measles in Disneyland, and several more cases scattered across the country, is miniscule in a population of 324 million. The vaccine manufacturer is currently under investigation for scientific fraud associated with its MMR vaccine. Does it seem ironic that the nation has been agitated into a frenzy of fear over 100 cases of measles at a time when the MMR vaccine is under legal scrutiny?
+
+Do you have concerns about getting sick?
+
+Some diseases are certainly more worrisome than others. Of course I would like to see everyone healthy but I don't believe that forced vaccinations are the answer. Too many people are being hurt by vaccines. The true risk-to-benefit ratio is underestimated and denied by health authorities whose main goal is preservation of high vaccination rates. A few days ago, our local paper quoted a pediatrician who claimed that "there is no science that shows vaccinations are harmful to children." That is a bald-faced lie. I have personally read hundreds of studies documenting harmful effects associated with vaccination. When parents are not provided with this information, they have no true informed consent and their human rights are being violated.
+
+What do you say to those that criticize your choices?
+
+Health authorities have done their best to bully and shame non-vaccinators. They have instigated fear and animosity within families that choose to vaccinate, their anger misdirected at non-vaccinators. Everyone's responsibility is to make the best decisions for their families regardless of what others may think. Both vaccinators and non-vaccinators believe they are doing what is best for their children. However, it should be noted that at least ten different studies have confirmed that parents who choose non-vaccination are significantly more educated than parents who adhere to the recommended vaccination schedule.
+
+People that are crying out for all kids to be vaccinated, and for vaccine exemptions to be rescinded, may be next in line. What if you don't want a new adult vaccine that comes on the market in a few years but you need it to retain your job or healthcare or to go shopping in public places. Do we really want to live in a country or world that doesn't allow us to reject medical procedures with documented health risks? Do we really want the medical industry and pharmaceutical companies to dictate which drugs we must have injected into our bodies?
+
+Vocal advocates against informed consent and the right to reject vaccines for our children may be unintentionally invoking a creeping medical tyranny against both children and adults. Overzealous pro-vaccinators need to be more thoughtful and very careful about what they envision for our society or there may come a time, soon, when none of us are free to accept or reject health practices not endorsed by our supreme health caretakers demanding complete obedience to their authority.
+
+Neil Z. Miller is a medical research journalist and the author of the Vaccine Safety Manual for Concerned Families and Health Practitioners.

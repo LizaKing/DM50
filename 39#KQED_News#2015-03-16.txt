@@ -1,0 +1,16 @@
+(David McNew/Getty Images)
+By Scott Hensley, NPR
+California has been dealing with a big measles outbreak since December, when cases emerged among visitors to Disneyland.
+Measles spread quickly afterward. As of Friday, the state  had confirmed 133 measles cases  among residents since December.
+Of the people who got sick — and for whom the state could determine vaccination status — 57 people hadn’t been vaccinated against measles and 20 people had had at least one shot of the vaccine.
+Researchers analyzed the California outbreak data as well as information gleaned from news reports and the Internet to figure out how big a factor the lack of vaccination was. The short answer, as you might have guessed, is big.
+“The rate of growth [in cases] gives us a good idea about the percentage of people in the population who are immune,” says Maimuna Majumder, health fellow in the  Health Map Computational Epidemiology Group  at Boston Children’s Hospital.
+“This preliminary analysis indicates that substandard vaccination compliance is likely to blame for the 2015 measles outbreak,” she and her co-authors  wrote in a research letter  that was published online Monday by JAMA Pediatrics. By their calculations, vaccination rates among the people exposed to the infection might have been as low as 50 percent and probably not more than 86 percent.
+The rapid spread of the measles in California and beyond has put a spotlight on vaccination rates.
+Widespread vaccination led the U.S. to  declare measles eliminated  from the country in 2000. Infected people have entered the U.S. from countries where measles is endemic and isolated outbreaks have sprung up periodically.
+A resurgence of measles in the past two years has  stoked public health concerns . In late January, the Centers for Disease Control and Prevention’s Dr. Anne Schuchat  said the uptick in measles cases  “is a wake-up call to make sure measles doesn’t get a foothold back in our country.”
+Measles is one of the most contagious viruses on the planet. But the measles-mumps-rubella vaccine against it is highly effective — about 95 percent effective in preventing infection.
+When enough people are in a community are vaccinated against measles or have been previously infected with the virus, there’s a protective effect called herd immunity that interrupts the spread of the virus to vulnerable people.
+But the vaccination rate in the community has to be very high to guard against measles —  96 percent or greater .
+“Measles is one of those cases of how herd immunity is really for the common good,” says Boston Children’s Hospital’s Majumder. “Healthy kids don’t die from it.”
+But children with weakened immune systems can die, and they rely on others to break the chain of measles transmission. Majumder’s conclusion: “If you can vaccinate, do.”
